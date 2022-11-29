@@ -8,6 +8,10 @@ font-family:'Courier New', Courier, monospace;
 border-collapse: collapse;
 padding: 0.5rem;
 }
-div{
-  background-color: rgb(123, 73, rgb(0, 217, 255));
+summary{
+  background-color:red;
+  margin: auto;
+  height: auto;
+  width: auto;
+  display: inline-block;
 }
